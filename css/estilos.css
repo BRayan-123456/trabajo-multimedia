@@ -1,0 +1,43 @@
+body{
+	background: red;
+}
+h1{
+	color: blue;
+	font-family: 'Indie Flower', cursive;
+    font-family: 'Jua', sans-serif;
+   text-align: center;
+}
+h2{
+	color: green;
+	font-family: 'Indie Flower', cursive;
+    font-family: 'Jua', sans-serif;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+h3{
+	color: yellow;
+	font-family: 'Indie Flower', cursive;
+    font-family: 'Jua', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+h4{
+	color: white;
+	font-family: 'Indie Flower', cursive;
+    font-family: 'Jua', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+}
+h5{
+	color: pink;
+	font-family: 'Indie Flower', cursive;
+    font-family: 'Jua', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Diplomata SC', cursive;
+    text-align: center;
+}
